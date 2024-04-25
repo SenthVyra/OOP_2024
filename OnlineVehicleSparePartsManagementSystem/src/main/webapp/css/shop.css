@@ -1,0 +1,148 @@
+/*
+Template Name: Tool Store
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************shop****************/
+.center_shop {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: #ea1c260f;
+}
+.center_shop_1r a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.center_shop_1r h5 span {
+  margin-left: 10px;
+}
+.center_shop_1r h5 {
+  margin-top: 5px;
+}
+.product_1l hr {
+  border-color: #1fc4da;
+  width: 70px;
+  margin-left: 0;
+  border-width: 2px;
+}
+.product_1l {
+  box-shadow: 0 0 10px #1b545c;
+  padding: 25px 15px 30px 15px;
+}
+.product_1l {
+  margin-top: 20px;
+}
+#shop {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.product_1l h5 a {
+  margin-left: 5px;
+}
+.product_1li img {
+  float: left;
+  margin-right: 20px;
+}
+.product_1li span {
+  color: #1fc4da;
+  margin-top: 10px;
+  display: block;
+}
+.product_1li h5 {
+  line-height: 1.3em;
+}
+.product_1li {
+  margin-top: 15px;
+  border-bottom: 1px solid #ea1c261f;
+  padding-bottom: 15px;
+}
+.product_1li h5 a {
+  margin-left: 0;
+}
+
+.product_1r h5 {
+  display: inline-block;
+  margin-right: 10px;
+}
+.product_1r .form-control {
+  display: inline-block;
+  width: 150px;
+  border-radius: 0;
+  font-size: 16px;
+  margin-right: 20px;
+}
+.product_1r {
+  box-shadow: 0 0 10px #1fc4da;
+  padding: 15px;
+}
+.sell_o_1 {
+  margin-top: 30px;
+  overflow: hidden;
+}
+
+.product_1_last {
+  margin-top: 20px;
+}
+.product_1_last ul li {
+  display: inline-block;
+  margin: 0 2px;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  background: #ea1c260f;
+  text-align: center;
+}
+.product_1_last ul li a {
+  display: block;
+  color: #1fc4da;
+}
+.product_1_last ul li:hover {
+  background: #1fc4da;
+}
+.product_1_last ul li:hover a {
+  color: #fff;
+}
+.act {
+  background: #1fc4da !important;
+}
+.act a {
+  color: #fff !important;
+}
+/*********************shop_end****************/
+
+@media screen and (max-width: 767px) {
+  #shop {
+    text-align: center;
+  }
+  .product_1li img {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  .product_1r .form-control {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .product_1rm {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .product_1l h4 {
+    font-size: 18px;
+  }
+  .product_1li img {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+@media (min-width: 1201px) and (max-width: 1220px) {
+}

@@ -1,0 +1,122 @@
+/*
+Template Name: Tool Store
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************cart****************/
+
+.texxt{
+	background: #000000 !important;
+}
+.cart {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.cart_2 {
+  margin-top: 10px;
+}
+.cart_2 h5 {
+  margin-top: 15px;
+}
+.cart_3 {
+  margin-top: 30px;
+}
+.cart_3l h5 {
+  background: #ea1c260f;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ea1c261f;
+}
+.cart_3l1i2 {
+  margin-top: 10px;
+}
+.cart_3l1 {
+  border-bottom: 1px solid #ea1c261f;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+.cart_3l1i2 .input-group {
+  width: 23%;
+  float: left;
+  margin-right: 15px;
+}
+.cart_3l1i2 h6 {
+  display: inline-block;
+  margin-right: 13px;
+  font-weight: bold;
+}
+.cart_3l1i2 .button {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+.cart_3l1i2 .button_1 {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+
+.cart_3r .head_1 {
+  background: #ea1c260f;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ea1c261f;
+  text-align: center;
+}
+.cart_3r .form-control {
+  margin-top: 15px;
+  height: 110px;
+  border-color: #ea1c261f;
+  box-shadow: none;
+}
+.cart_3r1 .form-control {
+  margin-top: 10px;
+  border-color: #ea1c261f;
+  box-shadow: none;
+}
+.cart hr {
+  border-color: #1fc4da;
+}
+/*********************cart_end****************/
+
+@media screen and (max-width: 767px) {
+  .cart {
+    text-align: center;
+  }
+  .cart_2 h5 {
+    text-align: center;
+  }
+  .cart_3l1i1 {
+    margin-top: 10px;
+  }
+  .cart_3l1i2 .input-group {
+    width: 50%;
+    margin: auto;
+    float: none;
+    margin-top: 10px;
+  }
+  .cart_3l1i2 h6 {
+    margin-right: 0;
+    margin-top: 10px !important;
+    margin-bottom: 5px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .cart_3l1i2 .input-group {
+    width: 38%;
+    margin-right: 8px;
+  }
+  .cart_3l1i2 .button {
+    padding: 9px 7px !important;
+  }
+  .cart_3l1i2 .button_1 {
+    padding: 9px 7px !important;
+  }
+  .cart_3l1i2 h6 {
+    margin-right: 5px;
+    font-size: 12px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+@media (min-width: 1201px) and (max-width: 1220px) {
+}

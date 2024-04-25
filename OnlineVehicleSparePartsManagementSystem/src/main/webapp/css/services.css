@@ -1,0 +1,111 @@
+/*
+Template Name: Tool Store
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************services****************/
+#services {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#Categ {
+  padding-bottom: 50px;
+}
+.Categ_1 hr {
+  border-color: #1fc4da;
+  width: 100px;
+  margin-left: 0;
+  border-width: 2px;
+}
+.Categ_2i img {
+  float: left;
+  margin-right: 20px;
+}
+.Categ_2i {
+  border: 2px solid #ea1c260f;
+  padding: 15px;
+}
+.Categ_2i:hover {
+  border: 2px solid #1fc4da;
+}
+.Categ_2i h4 {
+  margin-top: 10px !important;
+}
+.Categ_2 {
+  margin-top: 10px;
+}
+.center_home_l h1 {
+  font-size: 70px;
+}
+.center_home_l hr {
+  border-color: #1fc4da;
+  width: 140px;
+  margin-left: 0;
+  border-width: 2px;
+}
+#info {
+  padding-bottom: 50px;
+}
+.price {
+  margin-top: 50px;
+}
+.price_1 h4 {
+  background: #1fc4da;
+  color: #fff;
+  padding-top: 13px;
+  padding-bottom: 10px;
+}
+.price_1 h5 {
+  background: #ea1c260f;
+  padding-top: 13px;
+  padding-bottom: 10px;
+  margin: 0;
+  border-bottom: 1px solid #ea1c260f;
+  font-weight: normal;
+}
+.price_1 h5 span {
+  font-weight: bold;
+  font-size: 40px;
+}
+.price_1 h6 {
+  background: #ea1c260f;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+/*********************services_end****************/
+
+@media screen and (max-width: 767px) {
+  .services_1i {
+    margin-bottom: 10px;
+  }
+  #Categ {
+    text-align: center;
+  }
+  .Categ_2i {
+    margin-bottom: 10px;
+  }
+  .Categ_2i img {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  #info {
+    text-align: center;
+  }
+  .center_home_l h1 {
+    font-size: 50px;
+  }
+  .center_home_r {
+    margin-top: 15px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+@media (min-width: 1201px) and (max-width: 1220px) {
+}

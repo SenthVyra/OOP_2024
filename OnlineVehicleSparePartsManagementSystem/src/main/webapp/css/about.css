@@ -1,0 +1,60 @@
+/*
+Template Name: Tool Store
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************about****************/
+#about {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.about_2 {
+  margin-top: 30px;
+}
+.about_3 {
+  margin-top: 30px;
+}
+.about_3ii span i {
+  font-size: 50px;
+}
+.about_3i {
+  margin-top: 30px;
+}
+.about_3ii {
+  background: #ea1c260f;
+  padding: 40px 20px;
+  cursor: pointer;
+}
+.about_3ii:hover {
+  background: none;
+  box-shadow: 0 0 10px #ea1c2636;
+}
+blockquote {
+  border-color: #1fc4da;
+}
+.categories_1 h2 {
+  border-bottom: 1px solid #ea1c261f;
+  padding-bottom: 20px;
+}
+/*********************about_end****************/
+
+@media screen and (max-width: 767px) {
+  #about {
+    text-align: center;
+  }
+  .about_2i {
+    margin-bottom: 15px;
+  }
+  .about_3ii {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+@media (min-width: 1201px) and (max-width: 1220px) {
+}

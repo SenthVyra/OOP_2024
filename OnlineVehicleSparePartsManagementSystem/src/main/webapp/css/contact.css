@@ -1,0 +1,65 @@
+/*
+Template Name: Tool Store
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************contact****************/
+#contact {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.checkout_1l1 .form-control {
+  border-color: #ea1c261f;
+  box-shadow: none;
+  height: 50px;
+  margin-top: 15px;
+  border-radius: 0;
+  font-size: 16px;
+}
+.checkout_1l1 .form_1 {
+  height: 180px;
+}
+.contact_1lm {
+  box-shadow: 0 0 10px #1b545c;
+  padding: 40px 20px;
+}
+.contact_1r1 span {
+  display: inline-block;
+  background: #1fc4da;
+  color: #fff;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 3px;
+  text-align: center;
+  font-size: 18px;
+}
+.contact_1rm {
+  box-shadow: 0 0 10px #1b545c;
+  padding: 40px 20px;
+}
+.contact_1r1 {
+  margin-top: 30px;
+}
+.contact_2 {
+  margin-top: 30px;
+}
+/*********************contact_end****************/
+
+@media screen and (max-width: 767px) {
+  #contact {
+    text-align: center;
+  }
+  .contact_1rm {
+    margin-top: 15px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+@media (min-width: 1201px) and (max-width: 1220px) {
+}
